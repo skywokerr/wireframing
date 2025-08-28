@@ -1,6 +1,3 @@
-Of course. Here is the comprehensive `README.md` file for the wireframing repository, following the same structured format as before.
-
-***
 
 # Introduction to Wireframing
 
